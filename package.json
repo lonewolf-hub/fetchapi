@@ -1,0 +1,19 @@
+{
+  "name": "fetchapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^7.5.2",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.7.1"
+  }
+}
